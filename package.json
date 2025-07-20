@@ -1,0 +1,25 @@
+{
+  "name": "wezlem - Duyuru Bot",
+  "version": "1.0.0",
+  "description": "Discord bot for DM announcements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "dm",
+    "announcement"
+  ],
+  "author": "wezlem",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
